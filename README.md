@@ -1,5 +1,4 @@
 # CoupDePatte
-Pojet de recherche pour la réadaptation physique unilatéral du membre supérieur d'enfants victimes de paralysie cérébrale
 
 # 🧩 Exploitation de jouets connectés dans des jeux sérieux de réadaptation
 
