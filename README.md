@@ -23,13 +23,14 @@ Les auteurs remercient l’ANR – FRANCE (Agence Nationale de la Recherche) pou
 
 Pour des raisons de droits de diffusion sur du contenu visuel (assets) dont la liscence ne permet pas le partage de copies des fichiers sources, le jeu dans sa version éditeur (Unreal Engine) n'est pas fonctionnel. Les scripts restent tout de même pertinents et avec un travail de remodélisation des blueprints le jeu pourrait redevenir jouable dans l'éditeur. Un Build fonctionnel du jeu final est mis à la disposition dans ce GIT sous la section release afin de pouvoir jouer au jeu. Il est important de comprendre que les deux LEGO Mario et LEGO Luigi sont nécessaires pour établir les communications par socket, indispensables au lancement d'une partie.
 
+# **English**
 
-🧩 Leveraging Connected Toys in Serious Games for Rehabilitation
+# 🧩 Leveraging Connected Toys in Serious Games for Rehabilitation
 
-> 🎓 Master’s Research Project – Université du Québec à Chicoutimi
-> **Author :** Alexandre Isabelle
-> **Supervision :** Yannick Francillette
-> **Collaborators :** Frédéric Muhla, Éric Desailly, Fondation Ellen Poidatz
+> 🎓 Master’s Research Project – Université du Québec à Chicoutimi  
+> **Author :** Alexandre Isabelle  
+> **Supervision :** Yannick Francillette  
+> **Collaborators :** Frédéric Muhla, Éric Desailly, Fondation Ellen Poidatz  
 
 ---
 
